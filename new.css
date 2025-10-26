@@ -19,7 +19,7 @@ body{
 
 .header{
     display: grid;
-    background-image: url("New IMG/IMG-20250807-WA0006.jpg");
+    background-image: url("New_IMG/IMG-20250807-WA0006.jpg");
     background-position: 0 -159px;
     background-repeat: no-repeat;
     background-size: cover;
@@ -685,4 +685,5 @@ footer{
 
 .footer .contacts ul li{
     margin: 20px;
+
 }
