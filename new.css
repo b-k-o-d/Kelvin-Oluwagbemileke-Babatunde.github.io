@@ -270,7 +270,7 @@ body{
      }
 
      .contact-container .contact-icon img{
-        background-color: white;
+        background-color: green;
         border-radius: 50px;
         width: 3.6%;
         height: 3.2%;
@@ -691,5 +691,6 @@ footer{
     margin: 20px;
 
 }
+
 
 
