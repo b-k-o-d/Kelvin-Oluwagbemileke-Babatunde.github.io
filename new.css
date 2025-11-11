@@ -238,8 +238,7 @@ body{
 
 @media(max-width: 600px){
     body{
-        width: 600px;
-        ma
+        max-width: 600px;
     }
     .header{
          background-position: 0 73%;
@@ -691,6 +690,7 @@ footer{
     margin: 20px;
 
 }
+
 
 
 
