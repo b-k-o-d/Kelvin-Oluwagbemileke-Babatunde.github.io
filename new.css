@@ -250,6 +250,7 @@ body{
          width: 100%;
          background-size: cover;
          padding: -10px;
+         box-sizing: border box;
     }
 
      .header .alpha img{
@@ -265,6 +266,7 @@ body{
         max-width: 100%;
         height: auto;
         color: white;
+         background-colour: red;
      }
 
      .header .nav-menu{
@@ -274,7 +276,11 @@ body{
      }
 
      .contact-container .contact-icon img{
-        
+        background-color: white;
+        border-radius: 50px;
+        width: 3.6%;
+        height: 3.2%;
+        padding: 0.8%;
     }
 
 
@@ -285,7 +291,7 @@ body{
 
     .firstlay [class$="-box"]{
         flex: 0 0 30.5%;
-        height: 12rem;
+        height: 9rem;
     }
  }
 
@@ -689,6 +695,7 @@ footer{
     margin: 20px;
 
 }
+
 
 
 
