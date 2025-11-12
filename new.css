@@ -216,7 +216,6 @@ body{
 
 .firstlay .third-box{
     border-radius: 30px;
-    flex-shrink: 0;
     background-color: rgb(228, 148, 44);
     padding: 2px;
 } 
@@ -679,6 +678,7 @@ footer{
     margin: 20px;
 
 }
+
 
 
 
