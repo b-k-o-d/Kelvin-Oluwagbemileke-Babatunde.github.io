@@ -134,7 +134,7 @@ body{
     height: 25px;
     padding: 5px;
     cursor: pointer;
-    margin: -50px 0px 20px 555px;
+    margin: -50px 0px 15px 555px;
 }
 
 .contact-container .contact-icon img:hover{
@@ -274,13 +274,7 @@ body{
      }
 
      .contact-container .contact-icon img{
-        background-color: white;
-        border-radius: 50px;
-        width: 3.6%;
-        height: 3.2%;
-        padding: 0.8%;
-        cursor: pointer;
-        margin: -40% 0px 4.5% 93%;
+        
     }
 
 
@@ -695,6 +689,7 @@ footer{
     margin: 20px;
 
 }
+
 
 
 
