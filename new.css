@@ -15,6 +15,7 @@ body{
     padding: 0;
     font-family: "Poppins";
     background-color: rgb(240, 223, 191);
+    width:100%;
 }
 
 .header{
@@ -263,7 +264,7 @@ body{
         width: 85%;
         max-width: 100%;
         height: auto;
-        color: green;
+        color: white;
      }
 
      .header .nav-menu{
@@ -694,6 +695,7 @@ footer{
     margin: 20px;
 
 }
+
 
 
 
