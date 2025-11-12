@@ -134,7 +134,7 @@ body{
     height: 25px;
     padding: 5px;
     cursor: pointer;
-    margin: -47px 0px 15px 250px;
+    margin: -47px 0px 15px 280px;
 }
 
 .contact-container .contact-icon img:hover{
@@ -250,12 +250,12 @@ body{
         max-width: 100%;
         height: auto;
         color: white;
-         background-color: red;
+         background-color: white;
      }
 
      .header .nav-menu{
         /* margin: -52% 0 0 60%; */
-        margin: -260px 0 0px 55%;
+        margin: -220px 0 0px 55%;
         width: 43%;
      }
 
@@ -270,7 +270,7 @@ body{
 
     .firstlay{
         width: 100%;
-        margin-top: -2%;
+        margin-top: -5%;
         box-sizing: border-box;
     }
 
@@ -678,6 +678,7 @@ footer{
     margin: 20px;
 
 }
+
 
 
 
