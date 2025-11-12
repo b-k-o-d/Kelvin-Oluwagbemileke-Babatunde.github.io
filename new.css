@@ -150,7 +150,7 @@ body{
     flex-direction: inline;
     flex-wrap: nowrap;
     background-color: rgba(113, 147, 221, 0.4);
-    gap: 3px;
+    gap: 2px;
     padding: 5px;
     width: 587px;
     margin-top: -10px;
@@ -168,16 +168,9 @@ body{
 .firstlay .first-box{
     border-radius: 30px;
     background-color: rgb(228, 148, 44);
-    transition-duration: 0.7s;
-    padding: 4px;
+    padding: 2px;
     /* width: 190px; */
 } 
-
-.firstlay .first-box:hover{
-    padding: 7px;
-    background: none;
-    transition-duration: 0.7s;
-}
 
 .firstlay .second-box{
     display: flex;
@@ -225,15 +218,8 @@ body{
     border-radius: 30px;
     flex-shrink: 0;
     background-color: rgb(228, 148, 44);
-    padding: 4px;
-    transition-duration: 0.7s;
+    padding: 2px;
 } 
-
-.firstlay .third-box:hover{
-    padding: 7px;
-    background: none;
-    transition-duration: 0.7s;
-}
 
 
 @media(max-width: 600px){
@@ -340,6 +326,7 @@ body{
     .firstlay [class$="-box"]{
         flex: 0 0 30.2%;
         height: 14.4rem;
+        width: 33.3%;
    
     }
 
@@ -692,6 +679,7 @@ footer{
     margin: 20px;
 
 }
+
 
 
 
