@@ -292,6 +292,7 @@ body{
     .firstlay [class$="-box"]{
         flex: 0 0 30.5%;
         height: 9rem;
+        width: 33.3%;
     }
  }
 
@@ -691,6 +692,7 @@ footer{
     margin: 20px;
 
 }
+
 
 
 
