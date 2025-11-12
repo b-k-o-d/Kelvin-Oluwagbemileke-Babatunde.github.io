@@ -250,7 +250,7 @@ body{
          width: 100%;
          background-size: cover;
          padding: -10px;
-         box-sizing: border box;
+         box-sizing: border-box;
     }
 
      .header .alpha img{
@@ -266,7 +266,7 @@ body{
         max-width: 100%;
         height: auto;
         color: white;
-         background-colour: red;
+         background-color: red;
      }
 
      .header .nav-menu{
@@ -285,8 +285,9 @@ body{
 
 
     .firstlay{
-        width: 98.0%;
+        width: 100%;
         margin-top: -2%;
+        box-sizing: border-box
     }
 
     .firstlay [class$="-box"]{
@@ -326,7 +327,6 @@ body{
         height: 3.1%;
         padding: 0.8%;
         cursor: pointer;
-        margin: -38% 0px 3.9% 94.3%;
     }
 
     .firstlay{
@@ -382,7 +382,6 @@ body{
         height: 2.6%;
         padding: 0.8%;
         cursor: pointer;
-        margin: -40% 0px 3.0% 95%;
     }
 
 
@@ -453,7 +452,6 @@ body{
         height: 2%;
         padding: 0.8%;
         cursor: pointer;
-        margin: -40% 0px 2.9% 94.9%;
     }
 
 
@@ -523,7 +521,6 @@ body{
         height: 2.2%;
         padding: 0.6%;
         cursor: pointer;
-        margin: -20% 0px 3% 89.5%;
     }
 
     .firstlay{
@@ -695,6 +692,7 @@ footer{
     margin: 20px;
 
 }
+
 
 
 
